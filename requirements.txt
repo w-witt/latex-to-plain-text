@@ -1,0 +1,9 @@
+json5==0.9.14
+pytest==7.4.3
+Flask
+Flask-Uploads
+pyttsx3
+PyMuPDF
+Pillow
+torch
+transformers 
