@@ -6,7 +6,6 @@ A modern web application that converts LaTeX documents to plain text for easy re
 
 - **File Upload**: Drag and drop or click to upload `.tex` files
 - **Paste Support**: Directly paste LaTeX code for conversion
-- **Modern UI**: Clean, responsive interface built with Bootstrap
 - **Audio Output**: Browser-based text-to-speech with adjustable speed
 - **Copy/Download**: Easy copying and downloading of converted text
 - **Comprehensive LaTeX Support**: Handles mathematical expressions, Greek letters, sections, and more
