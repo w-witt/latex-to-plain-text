@@ -1,6 +1,6 @@
 # LaTeX to Plain Text Converter
 
-A modern web application that converts LaTeX documents to plain text for easy reading and audio playback. Built with Flask and featuring a user-friendly interface with drag-and-drop file upload, paste functionality, and browser-based text-to-speech.
+A web application that converts LaTeX documents to plain text for easy reading and audio playback. Built with Flask and featuring a user-friendly interface with drag-and-drop file upload, paste functionality, and browser-based text-to-speech. The goal of this project is to build a LaTeX to plain text dictionary that can be used in making generated audio for scientific papers possible. 
 
 ## Features
 
